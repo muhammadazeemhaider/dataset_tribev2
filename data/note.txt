@@ -1,0 +1,2 @@
+20-60 has a bigger spread of length of the prompt which can drive the analysis as a hidden variable.
+25-45 length dataset is better. 
